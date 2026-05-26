@@ -1,0 +1,6 @@
+framework module Pods_187BopNoodle {
+  umbrella header "Pods-187BopNoodle-umbrella.h"
+
+  export *
+  module * { export * }
+}
